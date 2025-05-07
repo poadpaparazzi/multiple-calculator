@@ -24,3 +24,4 @@ function showMultiple () {
 
 display.innerHTML = content
 }
+
