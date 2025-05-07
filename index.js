@@ -3,7 +3,6 @@ alert('Your Welcome to my website')
 function showData () {
   const message = document.getElementById('text-field')
 
-
   message.value = 'Basic JS'
 }
 
@@ -24,4 +23,3 @@ function showMultiple () {
 
 display.innerHTML = content
 }
-
