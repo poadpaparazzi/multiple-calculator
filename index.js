@@ -9,7 +9,7 @@ function showData () {
 function showDetail () {
 
    const detail = document.getElementById('detail')
-   detial.innerHTML = '<b>Description</b>' 
+   detail.innerHTML = '<b>Description</b>' 
 }
 
 function showMultiple () {
